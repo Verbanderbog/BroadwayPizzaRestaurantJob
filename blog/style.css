@@ -1,0 +1,222 @@
+BODY {
+  background-color: #ffffff;
+  background-image: none;
+  background-repeat: repeat;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.mainBGcolor {
+}
+
+.line {
+  background-color: #000000;
+}
+
+.email {
+  color: #CCFF99;
+  font-family: verdana;
+  font-size: 8px;
+}
+
+.panelBorder {
+  background-color: #000000;
+}
+
+.panelComp {
+  padding: 5px 0;
+  width: 130px;
+}
+
+.entry {
+  color: #000000;
+  font-family: verdana;
+  font-size: 11px;
+  line-height: 16px;
+  margin: 12px 0;
+}
+
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: #ff00ff;
+}
+
+a:active {
+  color: #ffffff;
+}
+
+.blogTitle {
+  color: #0066cc;
+  font-family: verdana;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.title {
+  color: #000000;
+  font-family: verdana;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 16px;
+}
+
+.date {
+  color: #000000;
+  font-family: verdana;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 12px 0;
+}
+
+.mood {
+  color: #000000;
+  font-family: verdana;
+  font-size: 10px;
+  line-height: 16px;
+}
+
+.time {
+  color: #000000;
+  font-family: verdana;
+  font-size: 9px;
+  text-align: right;
+}
+
+a.timeLink:link {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+a.timeLink:visited {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+a.timeLink:active {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+.panelBackground {
+  background-color: #ffffff;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: verdana;
+  font-size: 11px;
+  padding: 10px;
+}
+
+.calBorder {
+  background-color: #cccccc;
+}
+
+.calHeadHeavy {
+  color: #000000;
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.calDay {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+}
+
+.calDay a {
+  color: #0000ff !important;
+}
+
+.calToday {
+  background-color: #ffffff;
+  color: #ff0000;
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+}
+
+.calFuture {
+  background-color: #ffffff;
+  color: #aaaaaa;
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+}
+
+.linkTitle {
+  color: #ff0000;
+  font-family: verdana;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 16px;
+}
+
+a.panelLinks:link {
+  color: #ff0000;
+  font-family: verdana;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+a.panelLinks:visited {
+  color: #ff0000;
+  font-family: verdana;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+a.panelLinks:active {
+  color: #ff0000;
+  font-family: verdana;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.panelLinks {
+  color: #ff0000;
+  font-family: verdana;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.post {
+  color: #000000;
+  font-family: verdana;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 16px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.textRedHeavy {
+  font-color: #FF0000;
+  font-family: verdana;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.main {
+  margin: 10px 40px 10px 40px;
+  padding: 0 8px;
+}
+
+.main p {
+  margin: 5px 0;
+}
+
+.divide {
+  border-bottom: 1px solid #000000;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.home_link {
+  float: right;
+}
+

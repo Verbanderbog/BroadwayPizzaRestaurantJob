@@ -1,0 +1,19 @@
+<?xml version="1.0" ?> 
+<rsd version="1.0">
+  <service>
+    <engineName>Lycos Blog Builder</engineName> 
+    <engineLink>www.tripod.lycos.com</engineLink>
+    <homePageLink>http://www.broadwaypizzaonline.com/blog/</homePageLink>
+    <apis>
+       <api name="MetaWeblog" preferred="true" 
+	    apiLink="http://blog.tripod.lycos.com/bin/blog/control.rpc" 
+	    blogID="1815706" />
+    </apis>
+ </service>
+</rsd>
+
+
+
+
+
+

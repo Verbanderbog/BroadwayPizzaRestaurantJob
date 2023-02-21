@@ -1,0 +1,9 @@
+<html>
+<head>
+<!--#include virtual="/bin/blog/control.comment?sect=head" -->
+</head>
+<body>
+<!--#include virtual="/bin/blog/control.comment?sect=body" -->
+<IFRAME SRC="/adm/comScore/blog.html" style="width:0;height:0;border-width:0"></IFRAME>
+</body>
+</html>
